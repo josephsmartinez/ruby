@@ -23,6 +23,9 @@ http://www.getlaura.com/polymorphism-in-ruby/
 
 Other Resources:
 
+Offical Docs
+https://ruby-doc.org/core-2.6.3/
+
 Docs
 https://devdocs.io/ruby~2.5/
 
