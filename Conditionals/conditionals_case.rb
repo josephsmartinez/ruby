@@ -1,3 +1,5 @@
+## case statements
+
 count = 7
 
 case
@@ -12,12 +14,12 @@ else
 end
 
 case count
-when 0
-  puts "nobody"
-when 1
-  puts "1 person"
-when 2..5
-  puts "several people"
-else
-  puts "many people"
+  when 0
+    puts "nobody"
+  when 1
+    puts "1 person"
+  when 2..5
+    puts "several people"
+  else
+    puts "many people"
 end

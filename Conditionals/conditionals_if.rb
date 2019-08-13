@@ -1,5 +1,6 @@
-x = 15
+# if statements 
 
+x = 15
 if x <= 10
   puts "10 or below"
 elsif x >= 20
